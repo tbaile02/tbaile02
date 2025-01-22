@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 🎀
+## My name is Taylor! 🌸
+## My pronouns are she/her/hers 🌙
+## I'm a bartender pursuing my dreams of becoming an engineer! 🍄
 
 <!--
 **tbaile02/tbaile02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
